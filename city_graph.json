@@ -1,0 +1,435 @@
+{
+  "nodes": [
+    {
+      "id": "Jakarta"
+    },
+    {
+      "id": "Surabaya"
+    },
+    {
+      "id": "Medan"
+    },
+    {
+      "id": "Malang"
+    },
+    {
+      "id": "Bekasi"
+    },
+    {
+      "id": "Depok"
+    },
+    {
+      "id": "Tangerang"
+    },
+    {
+      "id": "Semarang"
+    },
+    {
+      "id": "Palembang"
+    },
+    {
+      "id": "Sangereng"
+    },
+    {
+      "id": "Makassar"
+    },
+    {
+      "id": "Bagam"
+    },
+    {
+      "id": "Sumedang"
+    }
+  ],
+  "edges": [
+    {
+      "source": "Jakarta",
+      "target": "Surabaya",
+      "distance": 666.72
+    },
+    {
+      "source": "Jakarta",
+      "target": "Medan",
+      "distance": 1412.03
+    },
+    {
+      "source": "Jakarta",
+      "target": "Malang",
+      "distance": 673.46
+    },
+    {
+      "source": "Jakarta",
+      "target": "Bekasi",
+      "distance": 20.21
+    },
+    {
+      "source": "Jakarta",
+      "target": "Depok",
+      "distance": 24.32
+    },
+    {
+      "source": "Jakarta",
+      "target": "Tangerang",
+      "distance": 20.79
+    },
+    {
+      "source": "Jakarta",
+      "target": "Semarang",
+      "distance": 409.17
+    },
+    {
+      "source": "Jakarta",
+      "target": "Palembang",
+      "distance": 422.12
+    },
+    {
+      "source": "Jakarta",
+      "target": "Sangereng",
+      "distance": 17.53
+    },
+    {
+      "source": "Jakarta",
+      "target": "Makassar",
+      "distance": 1401.84
+    },
+    {
+      "source": "Jakarta",
+      "target": "Bagam",
+      "distance": 867.37
+    },
+    {
+      "source": "Jakarta",
+      "target": "Sumedang",
+      "distance": 142.04
+    },
+    {
+      "source": "Surabaya",
+      "target": "Medan",
+      "distance": 1970.66
+    },
+    {
+      "source": "Surabaya",
+      "target": "Malang",
+      "distance": 82.54
+    },
+    {
+      "source": "Surabaya",
+      "target": "Bekasi",
+      "distance": 646.74
+    },
+    {
+      "source": "Surabaya",
+      "target": "Depok",
+      "distance": 663.37
+    },
+    {
+      "source": "Surabaya",
+      "target": "Tangerang",
+      "distance": 687.27
+    },
+    {
+      "source": "Surabaya",
+      "target": "Semarang",
+      "distance": 258.56
+    },
+    {
+      "source": "Surabaya",
+      "target": "Palembang",
+      "distance": 1004.29
+    },
+    {
+      "source": "Surabaya",
+      "target": "Sangereng",
+      "distance": 676.58
+    },
+    {
+      "source": "Surabaya",
+      "target": "Makassar",
+      "distance": 777.24
+    },
+    {
+      "source": "Surabaya",
+      "target": "Bagam",
+      "distance": 1339.28
+    },
+    {
+      "source": "Surabaya",
+      "target": "Sumedang",
+      "distance": 536.58
+    },
+    {
+      "source": "Medan",
+      "target": "Malang",
+      "distance": 2011.35
+    },
+    {
+      "source": "Medan",
+      "target": "Bekasi",
+      "distance": 1429.31
+    },
+    {
+      "source": "Medan",
+      "target": "Depok",
+      "distance": 1430.43
+    },
+    {
+      "source": "Medan",
+      "target": "Tangerang",
+      "distance": 1398.4
+    },
+    {
+      "source": "Medan",
+      "target": "Semarang",
+      "distance": 1754.9
+    },
+    {
+      "source": "Medan",
+      "target": "Palembang",
+      "distance": 994.2
+    },
+    {
+      "source": "Medan",
+      "target": "Sangereng",
+      "distance": 1414.06
+    },
+    {
+      "source": "Medan",
+      "target": "Makassar",
+      "distance": 2497.42
+    },
+    {
+      "source": "Medan",
+      "target": "Bagam",
+      "distance": 656.54
+    },
+    {
+      "source": "Medan",
+      "target": "Sumedang",
+      "distance": 1547.16
+    },
+    {
+      "source": "Malang",
+      "target": "Bekasi",
+      "distance": 653.26
+    },
+    {
+      "source": "Malang",
+      "target": "Depok",
+      "distance": 667.17
+    },
+    {
+      "source": "Malang",
+      "target": "Tangerang",
+      "distance": 693.48
+    },
+    {
+      "source": "Malang",
+      "target": "Semarang",
+      "distance": 267.53
+    },
+    {
+      "source": "Malang",
+      "target": "Palembang",
+      "distance": 1034.08
+    },
+    {
+      "source": "Malang",
+      "target": "Sangereng",
+      "distance": 681.47
+    },
+    {
+      "source": "Malang",
+      "target": "Makassar",
+      "distance": 817.63
+    },
+    {
+      "source": "Malang",
+      "target": "Bagam",
+      "distance": 1388.09
+    },
+    {
+      "source": "Malang",
+      "target": "Sumedang",
+      "distance": 536.74
+    },
+    {
+      "source": "Bekasi",
+      "target": "Depok",
+      "distance": 26.58
+    },
+    {
+      "source": "Bekasi",
+      "target": "Tangerang",
+      "distance": 40.53
+    },
+    {
+      "source": "Bekasi",
+      "target": "Semarang",
+      "distance": 389.07
+    },
+    {
+      "source": "Bekasi",
+      "target": "Palembang",
+      "distance": 438.16
+    },
+    {
+      "source": "Bekasi",
+      "target": "Sangereng",
+      "distance": 31.89
+    },
+    {
+      "source": "Bekasi",
+      "target": "Makassar",
+      "distance": 1383.31
+    },
+    {
+      "source": "Bekasi",
+      "target": "Bagam",
+      "distance": 880.35
+    },
+    {
+      "source": "Bekasi",
+      "target": "Sumedang",
+      "distance": 122.4
+    },
+    {
+      "source": "Depok",
+      "target": "Tangerang",
+      "distance": 32.02
+    },
+    {
+      "source": "Depok",
+      "target": "Semarang",
+      "distance": 405.04
+    },
+    {
+      "source": "Depok",
+      "target": "Palembang",
+      "distance": 442.41
+    },
+    {
+      "source": "Depok",
+      "target": "Sangereng",
+      "distance": 16.44
+    },
+    {
+      "source": "Depok",
+      "target": "Makassar",
+      "distance": 1404.6
+    },
+    {
+      "source": "Depok",
+      "target": "Bagam",
+      "distance": 889.94
+    },
+    {
+      "source": "Depok",
+      "target": "Sumedang",
+      "distance": 131.58
+    },
+    {
+      "source": "Tangerang",
+      "target": "Semarang",
+      "distance": 429.57
+    },
+    {
+      "source": "Tangerang",
+      "target": "Palembang",
+      "distance": 410.72
+    },
+    {
+      "source": "Tangerang",
+      "target": "Sangereng",
+      "distance": 15.74
+    },
+    {
+      "source": "Tangerang",
+      "target": "Makassar",
+      "distance": 1422.5
+    },
+    {
+      "source": "Tangerang",
+      "target": "Bagam",
+      "distance": 859.72
+    },
+    {
+      "source": "Tangerang",
+      "target": "Sumedang",
+      "distance": 160.4
+    },
+    {
+      "source": "Semarang",
+      "target": "Palembang",
+      "distance": 770.19
+    },
+    {
+      "source": "Semarang",
+      "target": "Sangereng",
+      "distance": 418.49
+    },
+    {
+      "source": "Semarang",
+      "target": "Makassar",
+      "distance": 1019.07
+    },
+    {
+      "source": "Semarang",
+      "target": "Bagam",
+      "distance": 1145.53
+    },
+    {
+      "source": "Semarang",
+      "target": "Sumedang",
+      "distance": 278.19
+    },
+    {
+      "source": "Palembang",
+      "target": "Sangereng",
+      "distance": 426.45
+    },
+    {
+      "source": "Palembang",
+      "target": "Makassar",
+      "distance": 1644.4
+    },
+    {
+      "source": "Palembang",
+      "target": "Bagam",
+      "distance": 463.49
+    },
+    {
+      "source": "Palembang",
+      "target": "Sumedang",
+      "distance": 553.57
+    },
+    {
+      "source": "Sangereng",
+      "target": "Makassar",
+      "distance": 1415.03
+    },
+    {
+      "source": "Sangereng",
+      "target": "Bagam",
+      "distance": 875.02
+    },
+    {
+      "source": "Sangereng",
+      "target": "Sumedang",
+      "distance": 146.85
+    },
+    {
+      "source": "Makassar",
+      "target": "Bagam",
+      "distance": 1841.3
+    },
+    {
+      "source": "Makassar",
+      "target": "Sumedang",
+      "distance": 1289.69
+    },
+    {
+      "source": "Bagam",
+      "target": "Sumedang",
+      "distance": 983.34
+    }
+  ]
+}
